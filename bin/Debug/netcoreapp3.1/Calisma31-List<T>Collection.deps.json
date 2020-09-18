@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calisma31-List<T>Collection/1.0.0": {
+        "runtime": {
+          "Calisma31-List<T>Collection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calisma31-List<T>Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
